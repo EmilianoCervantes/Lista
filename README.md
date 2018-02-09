@@ -1,1 +1,2 @@
-﻿Eliminar y agregar cosas de una lista en React
+## Add and eliminate actors (people) from a list.
+### Each object has a title, an image and a description.
